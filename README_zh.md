@@ -23,3 +23,8 @@
 * 将 **936行左右** 的 **bool check() const;** 方法改为 **bool cv_check() const;**。
 
 否则项目编译会报错。
+
+通过 SimpleModel.uproject 打开项目，通过如图方式打开 **Quixel Bridge** 来下载 **MetaHuman** 模型。
+
+![Open Quixel Bridge](Figures\OpenQuixelBridge.png)
+![Download MetaHuman](Figures\DownloadMetaHuman.png)
